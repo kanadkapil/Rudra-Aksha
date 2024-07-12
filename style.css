@@ -38,10 +38,9 @@
 }
 
 .card-custom {
-    width: calc(100% - 20px); /* Adjust margin as needed */
-    max-width: 420px; /* Adjust maximum width if necessary */
-    margin-left: 10px; /* Adjust left margin */
-    margin-right: 10px; /* Adjust right margin */
+    /* width: calc(100% - 20px); Adjust margin as needed */
+    max-width: 430px; /* Adjust maximum width if necessary */
+    height: auto;
 }
 
 .img-custom {
